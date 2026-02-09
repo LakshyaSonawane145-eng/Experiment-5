@@ -30,12 +30,12 @@
 
 - ✅ Algorithm – Problem 1
 - (Create dictionary and update value)
-Start
-Create a dictionary products with product names as keys and prices as values
-Display the original dictionary
-Update the value of key "Book" to 65
-Display the updated dictionary
-Stop
+- Start
+- Create a dictionary products with product names as keys and prices as values
+- Display the original dictionary
+- Update the value of key "Book" to 65
+- Display the updated dictionary
+- Stop
 
 - ✅ Algorithm – Problem 2
 - (Search student marks using .get() method)
