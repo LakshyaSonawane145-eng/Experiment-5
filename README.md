@@ -28,8 +28,8 @@
 - Display results using print()
 - Stop
 
-✅ Algorithm – Problem 1
-(Create dictionary and update value)
+- ✅ Algorithm – Problem 1
+- (Create dictionary and update value)
 Start
 Create a dictionary products with product names as keys and prices as values
 Display the original dictionary
@@ -37,8 +37,8 @@ Update the value of key "Book" to 65
 Display the updated dictionary
 Stop
 
-✅ Algorithm – Problem 2
-(Search student marks using .get() method)
+- ✅ Algorithm – Problem 2
+- (Search student marks using .get() method)
 Start
 Create a dictionary students_marks with student names as keys and marks as values
 Read the student name from the user
@@ -47,8 +47,8 @@ If the name exists, display the marks
 Else, display "Student not found"
 Stop
 
-✅ Algorithm – Problem 3
-(User login validation using dictionary)
+- ✅ Algorithm – Problem 3
+- (User login validation using dictionary)
 Start
 Create a dictionary users with usernames as keys and passwords as values
 Read username and password from the user
@@ -57,8 +57,8 @@ If both match, display "Login Successful"
 Else, display "Login Failed"
 Stop
 
-✅ Algorithm – Problem 4
-(Find topper from marks dictionary)
+- ✅ Algorithm – Problem 4
+- (Find topper from marks dictionary)
 Start
 Create a dictionary marks with student names as keys and marks as values
 Use max() function with key=marks.get to find highest marks
