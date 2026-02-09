@@ -39,32 +39,32 @@ Stop
 
 - ✅ Algorithm – Problem 2
 - (Search student marks using .get() method)
-Start
-Create a dictionary students_marks with student names as keys and marks as values
-Read the student name from the user
-Use get() method to retrieve marks
-If the name exists, display the marks
-Else, display "Student not found"
-Stop
+- Start
+- Create a dictionary students_marks with student names as keys and marks as values
+- Read the student name from the user
+- Use get() method to retrieve marks
+- If the name exists, display the marks
+- Else, display "Student not found"
+- Stop
 
 - ✅ Algorithm – Problem 3
 - (User login validation using dictionary)
-Start
-Create a dictionary users with usernames as keys and passwords as values
-Read username and password from the user
-Compare entered password with the value stored for the username
-If both match, display "Login Successful"
-Else, display "Login Failed"
-Stop
+- Start
+- Create a dictionary users with usernames as keys and passwords as values
+- Read username and password from the user
+- Compare entered password with the value stored for the username
+- If both match, display "Login Successful"
+- Else, display "Login Failed"
+- Stop
 
 - ✅ Algorithm – Problem 4
 - (Find topper from marks dictionary)
-Start
-Create a dictionary marks with student names as keys and marks as values
-Use max() function with key=marks.get to find highest marks
-Store the topper name
-Display the topper name and their marks
-Stop
+- Start
+- Create a dictionary marks with student names as keys and marks as values
+- Use max() function with key=marks.get to find highest marks
+- Store the topper name
+- Display the topper name and their marks
+- Stop
 
 **Conclusion**:
 Python dictionaries provide an efficient way to store and manage data using unique key–value pairs.
